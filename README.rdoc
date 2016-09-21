@@ -3,7 +3,9 @@
 Hey I decide to give myself a crash lesson in ruby and rails, got the semicolon html and a compiled scss running on a rails server. 
 
 Instructions
+
 in root run $rails server
+
 then go to http://localhost:3000/ in your browser
 
 
